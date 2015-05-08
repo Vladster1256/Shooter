@@ -9,8 +9,7 @@ namespace Shooter
         // Animation representing the player
         private Texture2D playerTexture;
 
-        // Position of the Player relative to the upper left side of the screen
-        private Vector2 position;
+        public Vector2 Position;
 
         // State of the player
         private bool active;
@@ -18,11 +17,7 @@ namespace Shooter
         // Amount of hit points that player has
         private int health;
 
-        public Vector2 Position
-        {
-            get {return position;}
-            set { position = value; }
-        }
+      
 
         public Texture2D PlayerTexture
         {
@@ -30,7 +25,7 @@ namespace Shooter
         }
 
         // Get the width of the player ship
-        public int width
+        public int Width
         {
             get { return playerTexture.Width; }
         }
@@ -40,6 +35,8 @@ namespace Shooter
         {
             get { return playerTexture.Height; }
         }
+
+
 
         public bool Active
         {
@@ -61,7 +58,7 @@ namespace Shooter
         public void Initialize(Texture2D texture, Vector2 position)
         {
 
-            this.playerTexture = texture;
+            playerTexture = texture;
 
             // Set the starting position of the player around the middle of the screen and to the back
             Position = position;
