@@ -16,6 +16,6 @@ ShooterContent\Sounds\explosion.xnb
 ShooterContent\Sounds\laserFire.xnb
 ShooterContent\Sounds\soi.xnb
 ShooterContent\Sounds\gameMusic.xnb
-ShooterContent\Sounds\menuMusic.xnb
 ShooterContent\Sounds\gameMusic.wma
+ShooterContent\Sounds\menuMusic.xnb
 ShooterContent\Sounds\menuMusic.wma

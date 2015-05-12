@@ -2,150 +2,177 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>bgLayer1.png</Source>
-      <Name>bgLayer1</Name>
+      <Source>Images\bgLayer1.png</Source>
+      <Name>Images\bgLayer1</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\bgLayer1.xnb</Output>
-      <Time>2015-05-08T11:46:03.9430123-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\bgLayer1.xnb</Output>
+      <Time>2015-05-12T13:27:35.7386004-06:00</Time>
     </Item>
     <Item>
-      <Source>bgLayer2.png</Source>
-      <Name>bgLayer2</Name>
+      <Source>Images\bgLayer2.png</Source>
+      <Name>Images\bgLayer2</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\bgLayer2.xnb</Output>
-      <Time>2015-05-08T11:46:04.0210148-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\bgLayer2.xnb</Output>
+      <Time>2015-05-12T13:27:35.7406006-06:00</Time>
     </Item>
     <Item>
-      <Source>endMenu.png</Source>
-      <Name>endMenu</Name>
+      <Source>Images\endMenu.png</Source>
+      <Name>Images\endMenu</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\endMenu.xnb</Output>
-      <Time>2015-05-08T11:46:04.1146178-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\endMenu.xnb</Output>
+      <Time>2015-05-12T13:27:35.7436009-06:00</Time>
     </Item>
     <Item>
-      <Source>explosion.png</Source>
-      <Name>explosion</Name>
+      <Source>Images\explosion.png</Source>
+      <Name>Images\explosion</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\explosion.xnb</Output>
-      <Time>2015-05-08T11:46:04.1926203-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\explosion.xnb</Output>
+      <Time>2015-05-12T13:27:35.7466012-06:00</Time>
     </Item>
     <Item>
-      <Source>laser.png</Source>
-      <Name>laser</Name>
+      <Source>Images\laser.png</Source>
+      <Name>Images\laser</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\laser.xnb</Output>
-      <Time>2015-05-08T11:46:04.2238213-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\laser.xnb</Output>
+      <Time>2015-05-12T13:27:35.7506016-06:00</Time>
     </Item>
     <Item>
-      <Source>mainbackground.png</Source>
-      <Name>mainbackground</Name>
+      <Source>Images\mainbackground.png</Source>
+      <Name>Images\mainbackground</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\mainbackground.xnb</Output>
-      <Time>2015-05-08T11:46:04.2394218-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\mainbackground.xnb</Output>
+      <Time>2015-05-12T13:27:35.7526018-06:00</Time>
     </Item>
     <Item>
-      <Source>mainMenu.png</Source>
-      <Name>mainMenu</Name>
+      <Source>Images\mainMenu.png</Source>
+      <Name>Images\mainMenu</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\mainMenu.xnb</Output>
-      <Time>2015-05-08T11:46:04.3642258-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\mainMenu.xnb</Output>
+      <Time>2015-05-12T13:27:35.7556021-06:00</Time>
     </Item>
     <Item>
-      <Source>mine.png</Source>
-      <Name>mine</Name>
+      <Source>Images\mine.png</Source>
+      <Name>Images\mine</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\mine.xnb</Output>
-      <Time>2015-05-08T11:46:04.3798263-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\mine.xnb</Output>
+      <Time>2015-05-12T13:27:35.7576023-06:00</Time>
     </Item>
     <Item>
-      <Source>mineAnimation.png</Source>
-      <Name>mineAnimation</Name>
+      <Source>Images\mineAnimation.png</Source>
+      <Name>Images\mineAnimation</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\mineAnimation.xnb</Output>
-      <Time>2015-05-08T11:46:04.3954268-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\mineAnimation.xnb</Output>
+      <Time>2015-05-12T13:27:35.7616027-06:00</Time>
     </Item>
     <Item>
-      <Source>player.png</Source>
-      <Name>player</Name>
+      <Source>Images\player.png</Source>
+      <Name>Images\player</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\player.xnb</Output>
-      <Time>2015-05-08T11:46:04.4110273-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\player.xnb</Output>
+      <Time>2015-05-12T13:27:35.764603-06:00</Time>
     </Item>
     <Item>
-      <Source>shipAnimation.png</Source>
-      <Name>shipAnimation</Name>
+      <Source>Images\roflcopter.png</Source>
+      <Name>Images\roflcopter</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\shipAnimation.xnb</Output>
-      <Time>2015-05-08T11:46:04.4266278-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\roflcopter.xnb</Output>
+      <Time>2015-05-12T13:27:35.7666032-06:00</Time>
     </Item>
     <Item>
-      <Source>Sound\explosion.wav</Source>
-      <Name>Sound\explosion</Name>
-      <Importer>WavImporter</Importer>
-      <Processor>SoundEffectProcessor</Processor>
+      <Source>Images\shipAnimation - Copy.png</Source>
+      <Name>Images\shipAnimation - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\Sound\explosion.xnb</Output>
-      <Time>2015-05-08T11:46:04.5046303-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\shipAnimation - Copy.xnb</Output>
+      <Time>2015-05-12T13:27:35.7686034-06:00</Time>
     </Item>
     <Item>
-      <Source>Sound\laserFire.wav</Source>
-      <Name>Sound\laserFire</Name>
-      <Importer>WavImporter</Importer>
-      <Processor>SoundEffectProcessor</Processor>
+      <Source>Images\shipAnimation.png</Source>
+      <Name>Images\shipAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\Sound\laserFire.xnb</Output>
-      <Time>2015-05-08T11:46:04.7698388-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Images\shipAnimation.xnb</Output>
+      <Time>2015-05-12T13:27:35.7706036-06:00</Time>
     </Item>
     <Item>
-      <Source>Sound\gameMusic.mp3</Source>
-      <Name>Sound\gameMusic</Name>
-      <Importer>Mp3Importer</Importer>
-      <Processor>SongProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.xnb</Output>
-      <Extra>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\Sound\gameMusic.wma</Extra>
-      <Time>2015-05-08T11:46:04.7542383-06:00</Time>
-    </Item>
-    <Item>
-      <Source>Sound\menuMusic.mp3</Source>
-      <Name>Sound\menuMusic</Name>
-      <Importer>Mp3Importer</Importer>
-      <Processor>SongProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.xnb</Output>
-      <Extra>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\Sound\menuMusic.wma</Extra>
-      <Time>2015-05-08T11:46:04.8322408-06:00</Time>
-    </Item>
-    <Item>
-      <Source>gameFont.spritefont</Source>
-      <Name>gameFont</Name>
+      <Source>Fonts\gameFont.spritefont</Source>
+      <Name>Fonts\gameFont</Name>
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\gameFont.xnb</Output>
-      <Time>2015-05-08T11:46:04.2082208-06:00</Time>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Fonts\gameFont.xnb</Output>
+      <Time>2015-05-12T13:27:35.7486014-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosion.wav</Source>
+      <Name>Sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Sounds\explosion.xnb</Output>
+      <Time>2015-05-12T11:43:16.0659819-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\laserFire.wav</Source>
+      <Name>Sounds\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Sounds\laserFire.xnb</Output>
+      <Time>2015-05-12T11:43:16.0939819-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\soi.wav</Source>
+      <Name>Sounds\soi</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Sounds\soi.xnb</Output>
+      <Time>2015-05-12T12:52:53.605324-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gameMusic.mp3</Source>
+      <Name>Sounds\gameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Sounds\gameMusic.xnb</Output>
+      <Extra>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Sounds\gameMusic.wma</Extra>
+      <Time>2015-05-12T11:43:16.0909819-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\menuMusic.mp3</Source>
+      <Name>Sounds\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Sounds\menuMusic.xnb</Output>
+      <Extra>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\Sounds\menuMusic.wma</Extra>
+      <Time>2015-05-12T11:43:16.1079819-06:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -153,10 +180,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\ShooterContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\ShooterContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\vgar7399\Documents\Visual Studio 2010\Projects\Shooter\Shooter\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\vgar7399\Documents\GitHub\Shooter\ShooterContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\vgar7399\Documents\GitHub\Shooter\ShooterContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\vgar7399\Documents\GitHub\Shooter\Shooter\bin\x86\Debug\ShooterContent\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
